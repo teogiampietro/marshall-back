@@ -1,0 +1,50 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "user1",
+            "password": "password1",
+            "email": "user1@password.com",
+            "tickets": [
+                {
+                    "ticketid": 1
+                },
+                {
+                    "ticketid": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "user2",
+            "password": "password2",
+            "email": "user2@password.com",
+            "tickets": [
+                {
+                    "ticketid": 3
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "user3",
+            "password": "password3",
+            "email": "user3@password.com",
+            "tickets": []
+        },
+        {
+            "id": 4,
+            "name": "user4",
+            "password": "password4",
+            "email": "user4@password.com",
+            "tickets": []
+        },
+        {
+            "id": 5,
+            "name": "user5",
+            "password": "123",
+            "email": "user5@gmail.com",
+            "tickets": []
+        }
+    ]
+}
