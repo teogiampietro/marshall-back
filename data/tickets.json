@@ -2,35 +2,35 @@
     "list": [
         {
             "id": 1,
-            "priority": "high",
-            "message": "cannot log in",
+            "priority": "Alta",
+            "message": "No se puede iniciar sesion",
             "userid": 1
             
         },
         {
             "id": 2,
-            "priority": "medium",
-            "message": "a bug discovered in the users interface",
+            "priority": "Media",
+            "message": "Bug descubierto en interfaz de usuarios",
             "userid": 1
             
         },
         {
             "id": 3,
-            "priority": "low",
-            "message": "fix facebook logo",
+            "priority": "Baja",
+            "message": "Facebook logo bugged",
             "userid": 2
             
         },
         {
             "id": 4,
-            "priority": "high",
-            "message": "new error",
+            "priority": "Alta",
+            "message": "Nuevo erro 5",
             "userid": 3
         },
         {
             "id": 5,
-            "priority": "medium",
-            "message": "error3",
+            "priority": "Media",
+            "message": "Nuevo erro 6",
             "userid": 2
         }
     ]
