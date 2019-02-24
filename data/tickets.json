@@ -5,33 +5,24 @@
             "priority": "Alta",
             "message": "No se puede iniciar sesion",
             "userid": 1
-            
         },
         {
             "id": 2,
             "priority": "Media",
             "message": "Bug descubierto en interfaz de usuarios",
             "userid": 1
-            
         },
         {
             "id": 3,
             "priority": "Baja",
             "message": "Facebook logo bugged",
             "userid": 2
-            
         },
         {
             "id": 4,
             "priority": "Alta",
-            "message": "Nuevo erro 5",
+            "message": "Nuevo error 5",
             "userid": 3
-        },
-        {
-            "id": 5,
-            "priority": "Media",
-            "message": "Nuevo erro 6",
-            "userid": 2
         }
     ]
 }
